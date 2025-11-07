@@ -36,25 +36,31 @@ to run each step of the workflow sequentially.
 
 ### 1. Feature Extraction
 In `main.py`, uncomment the block starting with:
+```
 # ===== Sliding window, extract features and write to file =====
+```
 
 This section will extract sliding-window features from framewise position data
 and save them to the `Sliding window features/` directory.
 
 ### 2. Model Training
 Uncomment the following block:
+```
 # ===== Train ML models =====
+```
 
 This section will train multiple machine learning models (e.g., SVM, RF, MLP, XGBoost)
 based on the extracted features and save trained models to the `Training models/` folder.
 
 ### 3. Draw the figures from the paper
 Uncomment the following blocks in sequence:
+```
 # ===== Figure 1 =====
 # ===== Figure 2 =====
 # ===== Figure 3 =====
 # ===== Figure 4 =====
 # ===== Discussion Figure =====
+```
 
 **Tip:**
 If you want to quickly reproduce the figures from the paper, go directly to Step 3 — the extracted features and trained models are already included in the directory.
