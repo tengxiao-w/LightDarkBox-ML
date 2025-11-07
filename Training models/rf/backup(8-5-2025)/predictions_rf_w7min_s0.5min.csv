@@ -1,0 +1,1351 @@
+file_name,mouse_id,group,sample_index,true_label,predicted_prob,fold
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,0,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,1,1,0.98,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,2,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,3,1,1.0,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,4,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,5,1,0.98,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,6,1,0.97,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,7,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,8,1,0.98,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,9,1,1.0,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,10,1,1.0,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,11,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,12,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,13,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,14,1,0.94,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,15,1,0.95,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,16,1,0.84,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,17,1,0.94,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,18,1,0.64,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,19,1,0.61,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,20,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,21,1,0.86,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,22,1,0.96,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,23,1,0.89,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,24,1,0.99,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,25,1,0.81,0
+21_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,21,normal,26,1,0.59,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,0,1,0.63,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,1,1,0.6,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,2,1,0.73,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,3,1,0.75,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,4,1,0.71,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,5,1,0.75,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,6,1,0.72,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,7,1,0.8,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,8,1,0.81,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,9,1,0.84,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,10,1,0.73,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,11,1,0.74,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,12,1,0.8,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,13,1,0.85,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,14,1,0.87,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,15,1,0.74,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,16,1,0.85,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,17,1,0.77,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,18,1,0.88,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,19,1,0.81,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,20,1,0.81,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,21,1,0.75,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,22,1,0.83,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,23,1,0.76,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,24,1,0.86,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,25,1,0.78,0
+26_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,26,normal,26,1,0.76,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,0,1,0.01,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,1,1,0.02,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,2,1,0.05,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,3,1,0.01,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,4,1,0.03,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,5,1,0.11,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,6,1,0.16,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,7,1,0.1,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,8,1,0.25,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,9,1,0.34,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,10,1,0.29,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,11,1,0.39,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,12,1,0.38,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,13,1,0.34,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,14,1,0.29,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,15,1,0.21,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,16,1,0.17,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,17,1,0.08,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,18,1,0.08,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,19,1,0.15,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,20,1,0.12,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,21,1,0.19,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,22,1,0.18,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,23,1,0.16,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,24,1,0.21,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,25,1,0.21,0
+31_WT_Normal_69wks_Male_W7min_S0.50min_metrics.txt,31,normal,26,1,0.22,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,0,1,0.3,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,1,1,0.17,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,2,1,0.22,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,3,1,0.21,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,4,1,0.18,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,5,1,0.14,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,6,1,0.3,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,7,1,0.31,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,8,1,0.35,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,9,1,0.43,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,10,1,0.43,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,11,1,0.44,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,12,1,0.32,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,13,1,0.42,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,14,1,0.36,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,15,1,0.4,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,16,1,0.3,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,17,1,0.51,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,18,1,0.47,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,19,1,0.41,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,20,1,0.42,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,21,1,0.37,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,22,1,0.17,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,23,1,0.21,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,24,1,0.32,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,25,1,0.5,0
+34_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,34,normal,26,1,0.59,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,0,1,0.64,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,1,1,0.73,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,2,1,0.84,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,3,1,0.6,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,4,1,0.39,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,5,1,0.24,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,6,1,0.23,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,7,1,0.18,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,8,1,0.42,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,9,1,0.33,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,10,1,0.47,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,11,1,0.79,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,12,1,0.57,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,13,1,0.32,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,14,1,0.05,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,15,1,0.17,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,16,1,0.08,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,17,1,0.04,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,18,1,0.17,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,19,1,0.17,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,20,1,0.14,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,21,1,0.18,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,22,1,0.2,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,23,1,0.17,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,24,1,0.2,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,25,1,0.18,0
+43_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,43,normal,26,1,0.18,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,0,0,0.36,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,1,0,0.37,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,2,0,0.5,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,3,0,0.73,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,4,0,0.66,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,5,0,0.44,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,6,0,0.32,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,7,0,0.29,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,8,0,0.38,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,9,0,0.24,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,10,0,0.33,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,11,0,0.31,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,12,0,0.43,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,13,0,0.4,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,14,0,0.45,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,15,0,0.38,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,16,0,0.45,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,17,0,0.43,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,18,0,0.48,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,19,0,0.45,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,20,0,0.41,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,21,0,0.41,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,22,0,0.2,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,23,0,0.46,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,24,0,0.28,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,25,0,0.33,0
+48_Rho KO_Blind_15wks_Male_W7min_S0.50min_metrics.txt,48,blind,26,0,0.24,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,0,0,0.12,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,1,0,0.22,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,2,0,0.27,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,3,0,0.39,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,4,0,0.38,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,5,0,0.27,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,6,0,0.34,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,7,0,0.37,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,8,0,0.37,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,9,0,0.48,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,10,0,0.55,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,11,0,0.5,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,12,0,0.88,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,13,0,0.79,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,14,0,0.92,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,15,0,0.85,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,16,0,0.87,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,17,0,0.67,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,18,0,0.62,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,19,0,0.4,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,20,0,0.56,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,21,0,0.36,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,22,0,0.45,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,23,0,0.42,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,24,0,0.36,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,25,0,0.29,0
+49_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,49,blind,26,0,0.4,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,0,0,0.38,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,1,0,0.29,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,2,0,0.5,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,3,0,0.47,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,4,0,0.37,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,5,0,0.23,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,6,0,0.29,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,7,0,0.31,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,8,0,0.31,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,9,0,0.5,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,10,0,0.33,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,11,0,0.39,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,12,0,0.51,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,13,0,0.37,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,14,0,0.36,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,15,0,0.32,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,16,0,0.29,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,17,0,0.37,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,18,0,0.32,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,19,0,0.28,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,20,0,0.3,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,21,0,0.21,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,22,0,0.28,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,23,0,0.22,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,24,0,0.48,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,25,0,0.34,0
+55_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,55,blind,26,0,0.26,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,0,0,0.86,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,1,0,0.95,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,2,0,0.91,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,3,0,0.82,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,4,0,0.55,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,5,0,0.95,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,6,0,0.5,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,7,0,0.95,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,8,0,0.51,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,9,0,0.55,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,10,0,0.7,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,11,0,0.43,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,12,0,0.36,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,13,0,0.58,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,14,0,0.1,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,15,0,0.11,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,16,0,0.27,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,17,0,0.13,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,18,0,0.47,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,19,0,0.37,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,20,0,0.48,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,21,0,0.49,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,22,0,0.44,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,23,0,0.45,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,24,0,0.39,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,25,0,0.38,0
+58_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,58,blind,26,0,0.46,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,0,0,0.71,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,1,0,0.73,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,2,0,0.72,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,3,0,0.72,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,4,0,0.74,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,5,0,0.64,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,6,0,0.65,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,7,0,0.64,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,8,0,0.73,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,9,0,0.59,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,10,0,0.45,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,11,0,0.15,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,12,0,0.15,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,13,0,0.15,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,14,0,0.13,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,15,0,0.14,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,16,0,0.14,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,17,0,0.13,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,18,0,0.17,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,19,0,0.25,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,20,0,0.31,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,21,0,0.37,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,22,0,0.33,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,23,0,0.29,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,24,0,0.07,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,25,0,0.29,0
+5_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,5,blind,26,0,0.41,0
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,0,1,0.7,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,1,1,0.78,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,2,1,0.59,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,3,1,0.63,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,4,1,0.81,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,5,1,0.78,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,6,1,0.82,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,7,1,0.9,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,8,1,0.89,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,9,1,0.92,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,10,1,0.88,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,11,1,0.87,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,12,1,0.87,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,13,1,0.89,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,14,1,0.87,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,15,1,0.88,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,16,1,0.89,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,17,1,0.92,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,18,1,0.9,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,19,1,0.93,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,20,1,0.98,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,21,1,0.92,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,22,1,0.97,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,23,1,0.98,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,24,1,0.97,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,25,1,0.99,1
+11_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,11,normal,26,1,0.95,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,0,1,0.88,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,1,1,0.96,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,2,1,0.95,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,3,1,0.98,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,4,1,0.97,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,5,1,0.98,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,6,1,0.89,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,7,1,0.75,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,8,1,0.76,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,9,1,0.58,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,10,1,0.56,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,11,1,0.62,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,12,1,0.68,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,13,1,0.77,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,14,1,0.75,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,15,1,0.78,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,16,1,0.74,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,17,1,0.65,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,18,1,0.6,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,19,1,0.77,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,20,1,0.82,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,21,1,0.74,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,22,1,0.8,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,23,1,0.81,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,24,1,0.79,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,25,1,0.78,1
+12_WT_Normal_66wks_Female_W7min_S0.50min_metrics.txt,12,normal,26,1,0.8,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,0,1,0.87,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,1,1,0.86,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,2,1,0.88,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,3,1,0.78,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,4,1,0.91,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,5,1,0.75,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,6,1,0.73,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,7,1,0.68,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,8,1,0.67,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,9,1,0.56,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,10,1,0.65,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,11,1,0.54,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,12,1,0.72,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,13,1,0.46,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,14,1,0.48,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,15,1,0.41,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,16,1,0.44,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,17,1,0.42,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,18,1,0.26,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,19,1,0.28,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,20,1,0.33,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,21,1,0.32,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,22,1,0.29,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,23,1,0.36,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,24,1,0.74,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,25,1,0.72,1
+22_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,22,normal,26,1,0.74,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,0,1,0.74,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,1,1,0.75,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,2,1,0.67,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,3,1,0.69,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,4,1,0.68,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,5,1,0.71,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,6,1,0.79,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,7,1,0.87,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,8,1,0.65,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,9,1,0.74,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,10,1,0.7,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,11,1,0.81,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,12,1,0.81,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,13,1,0.93,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,14,1,0.83,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,15,1,0.89,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,16,1,0.96,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,17,1,0.98,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,18,1,0.88,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,19,1,0.81,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,20,1,0.76,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,21,1,0.71,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,22,1,0.78,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,23,1,0.89,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,24,1,0.85,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,25,1,0.71,1
+24_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,24,normal,26,1,0.76,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,0,1,0.9,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,1,1,0.82,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,2,1,0.77,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,3,1,0.69,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,4,1,0.69,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,5,1,0.59,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,6,1,0.63,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,7,1,0.63,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,8,1,0.52,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,9,1,0.55,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,10,1,0.69,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,11,1,0.71,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,12,1,0.55,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,13,1,0.65,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,14,1,0.73,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,15,1,0.76,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,16,1,0.65,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,17,1,0.75,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,18,1,0.57,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,19,1,0.67,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,20,1,0.55,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,21,1,0.6,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,22,1,0.63,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,23,1,0.7,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,24,1,0.53,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,25,1,0.5,1
+29_WT_Normal_11wks_Female_W7min_S0.50min_metrics.txt,29,normal,26,1,0.55,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,0,0,0.4,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,1,0,0.33,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,2,0,0.31,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,3,0,0.12,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,4,0,0.1,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,5,0,0.18,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,6,0,0.25,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,7,0,0.24,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,8,0,0.07,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,9,0,0.22,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,10,0,0.13,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,11,0,0.36,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,12,0,0.24,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,13,0,0.31,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,14,0,0.5,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,15,0,0.3,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,16,0,0.25,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,17,0,0.37,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,18,0,0.29,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,19,0,0.26,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,20,0,0.23,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,21,0,0.16,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,22,0,0.22,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,23,0,0.29,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,24,0,0.25,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,25,0,0.26,1
+44_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,44,blind,26,0,0.15,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,0,0,0.95,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,1,0,0.92,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,2,0,0.97,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,3,0,0.98,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,4,0,0.96,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,5,0,0.94,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,6,0,0.88,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,7,0,0.88,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,8,0,0.86,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,9,0,0.82,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,10,0,0.88,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,11,0,0.83,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,12,0,0.81,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,13,0,0.88,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,14,0,0.75,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,15,0,0.43,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,16,0,0.3,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,17,0,0.23,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,18,0,0.2,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,19,0,0.17,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,20,0,0.4,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,21,0,0.36,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,22,0,0.23,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,23,0,0.1,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,24,0,0.05,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,25,0,0.07,1
+46_Rho KO_Blind_40wks_Female_W7min_S0.50min_metrics.txt,46,blind,26,0,0.22,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,0,0,0.34,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,1,0,0.46,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,2,0,0.48,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,3,0,0.51,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,4,0,0.49,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,5,0,0.54,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,6,0,0.56,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,7,0,0.53,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,8,0,0.58,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,9,0,0.7,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,10,0,0.62,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,11,0,0.5,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,12,0,0.59,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,13,0,0.53,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,14,0,0.51,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,15,0,0.27,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,16,0,0.18,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,17,0,0.42,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,18,0,0.58,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,19,0,0.88,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,20,0,1.0,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,21,0,0.84,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,22,0,0.59,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,23,0,0.58,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,24,0,0.56,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,25,0,0.45,1
+51_Rho KO_Blind_18wks_Female_W7min_S0.50min_metrics.txt,51,blind,26,0,0.46,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,0,0,0.36,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,1,0,0.36,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,2,0,0.46,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,3,0,0.44,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,4,0,0.55,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,5,0,0.6,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,6,0,0.66,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,7,0,0.72,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,8,0,0.56,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,9,0,0.58,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,10,0,0.47,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,11,0,0.58,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,12,0,0.49,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,13,0,0.37,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,14,0,0.29,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,15,0,0.23,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,16,0,0.36,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,17,0,0.42,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,18,0,0.23,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,19,0,0.24,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,20,0,0.27,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,21,0,0.61,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,22,0,0.82,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,23,0,0.78,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,24,0,0.75,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,25,0,0.59,1
+52_Rho KO_Blind_45wks_Male_W7min_S0.50min_metrics.txt,52,blind,26,0,0.63,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,0,0,0.33,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,1,0,0.38,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,2,0,0.42,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,3,0,0.43,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,4,0,0.45,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,5,0,0.47,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,6,0,0.44,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,7,0,0.41,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,8,0,0.16,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,9,0,0.17,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,10,0,0.17,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,11,0,0.07,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,12,0,0.06,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,13,0,0.07,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,14,0,0.07,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,15,0,0.02,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,16,0,0.01,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,17,0,0.01,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,18,0,0.01,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,19,0,0.02,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,20,0,0.21,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,21,0,0.18,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,22,0,0.18,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,23,0,0.29,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,24,0,0.24,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,25,0,0.19,1
+62_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,62,blind,26,0,0.21,1
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,0,1,0.94,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,1,1,0.91,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,2,1,0.9,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,3,1,0.94,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,4,1,0.95,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,5,1,0.88,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,6,1,0.98,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,7,1,1.0,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,8,1,0.98,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,9,1,0.99,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,10,1,0.81,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,11,1,1.0,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,12,1,1.0,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,13,1,1.0,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,14,1,0.95,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,15,1,0.86,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,16,1,0.73,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,17,1,0.7,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,18,1,0.65,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,19,1,0.68,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,20,1,0.55,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,21,1,0.53,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,22,1,0.58,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,23,1,0.53,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,24,1,0.54,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,25,1,0.53,2
+18_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,18,normal,26,1,0.54,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,0,1,0.68,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,1,1,0.6,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,2,1,0.53,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,3,1,0.52,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,4,1,0.55,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,5,1,0.78,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,6,1,0.9,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,7,1,0.8,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,8,1,0.7,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,9,1,0.72,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,10,1,0.72,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,11,1,0.76,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,12,1,0.71,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,13,1,0.73,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,14,1,0.78,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,15,1,0.78,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,16,1,0.89,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,17,1,0.88,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,18,1,0.77,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,19,1,0.63,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,20,1,0.47,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,21,1,0.52,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,22,1,0.57,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,23,1,0.54,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,24,1,0.54,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,25,1,0.52,2
+25_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,25,normal,26,1,0.29,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,0,1,0.44,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,1,1,0.7,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,2,1,0.62,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,3,1,0.8,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,4,1,0.69,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,5,1,0.73,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,6,1,0.53,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,7,1,0.36,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,8,1,0.52,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,9,1,0.47,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,10,1,0.49,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,11,1,0.63,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,12,1,0.58,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,13,1,0.68,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,14,1,0.64,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,15,1,0.22,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,16,1,0.31,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,17,1,0.15,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,18,1,0.2,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,19,1,0.39,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,20,1,0.48,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,21,1,0.48,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,22,1,0.41,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,23,1,0.6,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,24,1,0.64,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,25,1,0.56,2
+39_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,39,normal,26,1,0.47,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,0,1,0.17,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,1,1,0.89,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,2,1,0.79,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,3,1,0.83,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,4,1,0.72,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,5,1,0.74,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,6,1,0.6,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,7,1,0.68,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,8,1,0.75,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,9,1,0.71,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,10,1,0.64,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,11,1,0.85,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,12,1,0.9,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,13,1,0.84,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,14,1,0.85,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,15,1,0.57,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,16,1,0.32,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,17,1,0.4,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,18,1,0.34,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,19,1,0.34,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,20,1,0.31,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,21,1,0.5,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,22,1,0.49,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,23,1,0.54,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,24,1,0.88,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,25,1,0.67,2
+42_Rho KO_Normal_9wks_Female_W7min_S0.50min_metrics.txt,42,normal,26,1,0.54,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,0,0,0.29,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,1,0,0.17,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,2,0,0.19,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,3,0,0.2,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,4,0,0.3,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,5,0,0.53,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,6,0,0.48,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,7,0,0.34,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,8,0,0.28,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,9,0,0.34,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,10,0,0.27,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,11,0,0.3,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,12,0,0.42,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,13,0,0.35,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,14,0,0.37,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,15,0,0.34,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,16,0,0.3,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,17,0,0.4,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,18,0,0.39,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,19,0,0.39,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,20,0,0.4,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,21,0,0.4,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,22,0,0.41,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,23,0,0.4,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,24,0,0.49,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,25,0,0.53,2
+45_Rho KO_Blind_10wks_Male_W7min_S0.50min_metrics.txt,45,blind,26,0,0.51,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,0,0,0.1,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,1,0,0.1,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,2,0,0.11,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,3,0,0.17,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,4,0,0.17,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,5,0,0.1,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,6,0,0.16,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,7,0,0.1,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,8,0,0.06,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,9,0,0.02,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,10,0,0.02,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,11,0,0.06,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,12,0,0.29,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,13,0,0.11,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,14,0,0.03,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,15,0,0.09,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,16,0,0.08,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,17,0,0.24,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,18,0,0.23,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,19,0,0.27,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,20,0,0.34,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,21,0,0.39,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,22,0,0.37,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,23,0,0.39,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,24,0,0.26,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,25,0,0.21,2
+53_Rho KO_Blind_22wks_Male_W7min_S0.50min_metrics.txt,53,blind,26,0,0.32,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,0,0,0.2,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,1,0,0.32,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,2,0,0.46,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,3,0,0.44,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,4,0,0.55,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,5,0,0.54,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,6,0,0.48,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,7,0,0.58,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,8,0,0.59,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,9,0,0.67,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,10,0,0.34,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,11,0,0.03,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,12,0,0.05,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,13,0,0.03,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,14,0,0.08,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,15,0,0.09,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,16,0,0.04,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,17,0,0.11,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,18,0,0.08,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,19,0,0.23,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,20,0,0.25,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,21,0,0.21,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,22,0,0.22,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,23,0,0.23,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,24,0,0.31,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,25,0,0.25,2
+54_Rho KO_Blind_24wks_Female_W7min_S0.50min_metrics.txt,54,blind,26,0,0.32,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,0,0,0.67,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,1,0,0.3,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,2,0,0.25,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,3,0,0.33,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,4,0,0.41,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,5,0,0.56,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,6,0,0.52,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,7,0,0.46,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,8,0,0.44,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,9,0,0.36,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,10,0,0.23,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,11,0,0.27,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,12,0,0.06,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,13,0,0.05,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,14,0,0.04,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,15,0,0.17,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,16,0,0.03,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,17,0,0.12,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,18,0,0.01,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,19,0,0.01,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,20,0,0.01,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,21,0,0.02,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,22,0,0.09,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,23,0,0.12,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,24,0,0.13,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,25,0,0.03,2
+64_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,64,blind,26,0,0.16,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,0,0,0.29,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,1,0,0.46,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,2,0,0.25,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,3,0,0.52,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,4,0,0.12,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,5,0,0.13,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,6,0,0.29,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,7,0,0.47,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,8,0,0.44,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,9,0,0.41,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,10,0,0.4,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,11,0,0.36,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,12,0,0.48,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,13,0,0.6,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,14,0,0.49,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,15,0,0.3,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,16,0,0.28,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,17,0,0.12,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,18,0,0.21,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,19,0,0.09,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,20,0,0.04,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,21,0,0.04,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,22,0,0.07,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,23,0,0.1,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,24,0,0.1,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,25,0,0.06,2
+67_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,67,blind,26,0,0.07,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,0,1,0.66,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,1,1,0.69,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,2,1,0.62,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,3,1,0.7,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,4,1,0.77,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,5,1,0.88,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,6,1,0.73,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,7,1,0.74,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,8,1,0.64,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,9,1,0.48,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,10,1,0.54,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,11,1,0.6,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,12,1,0.52,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,13,1,0.52,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,14,1,0.47,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,15,1,0.45,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,16,1,0.45,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,17,1,0.45,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,18,1,0.39,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,19,1,0.22,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,20,1,0.27,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,21,1,0.17,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,22,1,0.08,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,23,1,0.23,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,24,1,0.21,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,25,1,0.34,2
+8_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,8,normal,26,1,0.28,2
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,0,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,1,1,0.95,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,2,1,0.95,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,3,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,4,1,0.95,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,5,1,0.93,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,6,1,0.93,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,7,1,0.95,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,8,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,9,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,10,1,0.98,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,11,1,0.88,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,12,1,0.91,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,13,1,0.84,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,14,1,0.89,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,15,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,16,1,0.9,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,17,1,0.93,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,18,1,0.87,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,19,1,0.89,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,20,1,0.93,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,21,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,22,1,0.96,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,23,1,0.91,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,24,1,0.89,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,25,1,0.88,3
+15_Rho KO_Normal_4wks_Male_W7min_S0.50min_metrics.txt,15,normal,26,1,0.98,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,0,1,0.97,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,1,1,0.98,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,2,1,0.93,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,3,1,0.97,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,4,1,1.0,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,5,1,0.99,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,6,1,0.96,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,7,1,0.96,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,8,1,0.97,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,9,1,0.96,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,10,1,0.97,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,11,1,0.96,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,12,1,0.92,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,13,1,0.95,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,14,1,0.95,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,15,1,0.91,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,16,1,0.92,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,17,1,0.91,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,18,1,0.85,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,19,1,0.92,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,20,1,0.93,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,21,1,0.92,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,22,1,0.93,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,23,1,0.9,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,24,1,0.89,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,25,1,0.88,3
+17_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,17,normal,26,1,0.98,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,0,1,0.64,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,1,1,0.6,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,2,1,0.62,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,3,1,0.64,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,4,1,0.69,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,5,1,0.65,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,6,1,0.7,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,7,1,0.64,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,8,1,0.63,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,9,1,0.61,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,10,1,0.43,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,11,1,0.41,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,12,1,0.38,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,13,1,0.36,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,14,1,0.19,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,15,1,0.18,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,16,1,0.26,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,17,1,0.55,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,18,1,0.56,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,19,1,0.65,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,20,1,0.82,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,21,1,0.82,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,22,1,0.84,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,23,1,0.82,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,24,1,0.86,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,25,1,0.82,3
+1_WT_Normal_5wks_Female_W7min_S0.50min_metrics.txt,1,normal,26,1,0.84,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,0,1,0.73,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,1,1,0.71,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,2,1,0.56,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,3,1,0.62,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,4,1,0.73,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,5,1,0.54,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,6,1,0.55,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,7,1,0.59,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,8,1,0.65,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,9,1,0.56,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,10,1,0.58,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,11,1,0.62,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,12,1,0.57,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,13,1,0.57,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,14,1,0.57,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,15,1,0.55,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,16,1,0.55,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,17,1,0.57,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,18,1,0.57,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,19,1,0.5,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,20,1,0.56,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,21,1,0.53,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,22,1,0.51,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,23,1,0.43,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,24,1,0.53,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,25,1,0.39,3
+40_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,40,normal,26,1,0.44,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,0,1,0.41,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,1,1,0.62,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,2,1,0.3,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,3,1,0.24,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,4,1,0.46,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,5,1,0.59,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,6,1,0.56,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,7,1,0.76,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,8,1,0.51,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,9,1,0.57,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,10,1,0.6,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,11,1,0.49,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,12,1,0.31,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,13,1,0.39,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,14,1,0.32,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,15,1,0.22,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,16,1,0.25,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,17,1,0.25,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,18,1,0.56,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,19,1,0.46,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,20,1,0.56,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,21,1,0.57,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,22,1,0.33,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,23,1,0.54,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,24,1,0.46,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,25,1,0.63,3
+41_Rho KO_Normal_8wks_Female_W7min_S0.50min_metrics.txt,41,normal,26,1,0.5,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,0,0,0.34,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,1,0,0.32,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,2,0,0.29,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,3,0,0.27,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,4,0,0.2,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,5,0,0.37,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,6,0,0.51,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,7,0,0.51,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,8,0,0.51,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,9,0,0.24,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,10,0,0.25,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,11,0,0.15,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,12,0,0.07,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,13,0,0.05,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,14,0,0.12,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,15,0,0.32,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,16,0,0.06,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,17,0,0.18,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,18,0,0.2,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,19,0,0.2,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,20,0,0.19,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,21,0,0.32,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,22,0,0.23,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,23,0,0.07,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,24,0,0.08,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,25,0,0.11,3
+47_Rho KO_Blind_44wks_Male_W7min_S0.50min_metrics.txt,47,blind,26,0,0.18,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,0,0,0.18,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,1,0,0.13,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,2,0,0.13,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,3,0,0.11,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,4,0,0.2,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,5,0,0.21,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,6,0,0.21,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,7,0,0.11,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,8,0,0.2,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,9,0,0.11,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,10,0,0.2,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,11,0,0.15,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,12,0,0.25,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,13,0,0.28,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,14,0,0.23,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,15,0,0.25,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,16,0,0.45,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,17,0,0.21,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,18,0,0.32,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,19,0,0.22,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,20,0,0.32,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,21,0,0.24,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,22,0,0.11,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,23,0,0.43,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,24,0,0.42,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,25,0,0.54,3
+57_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,57,blind,26,0,0.5,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,0,0,0.3,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,1,0,0.81,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,2,0,0.75,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,3,0,0.53,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,4,0,0.92,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,5,0,0.93,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,6,0,0.9,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,7,0,0.84,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,8,0,0.86,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,9,0,0.65,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,10,0,0.73,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,11,0,0.45,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,12,0,0.52,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,13,0,0.27,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,14,0,0.45,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,15,0,0.42,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,16,0,0.46,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,17,0,0.65,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,18,0,0.27,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,19,0,0.13,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,20,0,0.33,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,21,0,0.29,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,22,0,0.35,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,23,0,0.43,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,24,0,0.38,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,25,0,0.4,3
+61_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,61,blind,26,0,0.39,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,0,0,0.21,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,1,0,0.47,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,2,0,0.62,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,3,0,0.26,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,4,0,0.18,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,5,0,0.28,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,6,0,0.37,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,7,0,0.14,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,8,0,0.16,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,9,0,0.23,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,10,0,0.2,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,11,0,0.16,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,12,0,0.15,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,13,0,0.15,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,14,0,0.18,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,15,0,0.19,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,16,0,0.24,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,17,0,0.23,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,18,0,0.23,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,19,0,0.26,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,20,0,0.15,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,21,0,0.06,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,22,0,0.11,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,23,0,0.1,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,24,0,0.07,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,25,0,0.07,3
+66_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,66,blind,26,0,0.07,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,0,0,0.94,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,1,0,0.9,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,2,0,0.95,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,3,0,0.79,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,4,0,0.78,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,5,0,0.71,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,6,0,0.74,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,7,0,0.58,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,8,0,0.7,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,9,0,0.71,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,10,0,0.51,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,11,0,0.51,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,12,0,0.46,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,13,0,0.51,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,14,0,0.51,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,15,0,0.53,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,16,0,0.52,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,17,0,0.5,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,18,0,0.5,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,19,0,0.37,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,20,0,0.3,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,21,0,0.32,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,22,0,0.23,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,23,0,0.2,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,24,0,0.2,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,25,0,0.15,3
+68_Rho KO_Blind_21wks_Male_W7min_S0.50min_metrics.txt,68,blind,26,0,0.21,3
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,0,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,1,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,2,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,3,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,4,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,5,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,6,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,7,1,0.96,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,8,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,9,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,10,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,11,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,12,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,13,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,14,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,15,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,16,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,17,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,18,1,1.0,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,19,1,0.99,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,20,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,21,1,0.96,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,22,1,0.97,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,23,1,0.98,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,24,1,0.67,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,25,1,0.5,4
+20_Rho KO_Normal_4wks_Female_W7min_S0.50min_metrics.txt,20,normal,26,1,0.45,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,0,1,0.92,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,1,1,0.69,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,2,1,0.72,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,3,1,0.4,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,4,1,0.4,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,5,1,0.38,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,6,1,0.45,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,7,1,0.48,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,8,1,0.59,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,9,1,0.47,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,10,1,0.49,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,11,1,0.47,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,12,1,0.48,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,13,1,0.41,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,14,1,0.47,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,15,1,0.64,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,16,1,0.78,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,17,1,0.84,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,18,1,0.93,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,19,1,0.96,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,20,1,0.97,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,21,1,0.96,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,22,1,0.76,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,23,1,0.16,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,24,1,0.09,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,25,1,0.26,4
+23_Rho KO_Normal_5wks_Male_W7min_S0.50min_metrics.txt,23,normal,26,1,0.46,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,0,1,0.4,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,1,1,0.37,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,2,1,0.44,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,3,1,0.6,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,4,1,0.31,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,5,1,0.24,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,6,1,0.44,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,7,1,0.53,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,8,1,0.63,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,9,1,0.29,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,10,1,0.3,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,11,1,0.22,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,12,1,0.28,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,13,1,0.13,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,14,1,0.21,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,15,1,0.2,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,16,1,0.21,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,17,1,0.2,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,18,1,0.23,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,19,1,0.24,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,20,1,0.14,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,21,1,0.2,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,22,1,0.04,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,23,1,0.07,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,24,1,0.23,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,25,1,0.25,4
+36_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,36,normal,26,1,0.38,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,0,1,0.77,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,1,1,0.74,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,2,1,0.69,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,3,1,0.23,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,4,1,0.34,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,5,1,0.16,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,6,1,0.14,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,7,1,0.35,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,8,1,0.66,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,9,1,0.68,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,10,1,0.58,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,11,1,0.55,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,12,1,0.58,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,13,1,0.75,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,14,1,0.76,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,15,1,0.56,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,16,1,0.75,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,17,1,0.86,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,18,1,0.59,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,19,1,0.67,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,20,1,0.86,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,21,1,0.64,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,22,1,0.45,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,23,1,0.18,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,24,1,0.17,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,25,1,0.24,4
+37_Rho KO_Normal_8wks_Male_W7min_S0.50min_metrics.txt,37,normal,26,1,0.25,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,0,0,0.67,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,1,0,0.52,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,2,0,0.17,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,3,0,0.24,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,4,0,0.19,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,5,0,0.29,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,6,0,0.09,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,7,0,0.03,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,8,0,0.17,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,9,0,0.14,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,10,0,0.21,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,11,0,0.14,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,12,0,0.12,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,13,0,0.31,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,14,0,0.25,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,15,0,0.33,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,16,0,0.36,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,17,0,0.28,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,18,0,0.3,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,19,0,0.38,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,20,0,0.35,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,21,0,0.35,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,22,0,0.35,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,23,0,0.36,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,24,0,0.33,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,25,0,0.4,4
+4_Rho KO_Blind_36wks_Male_W7min_S0.50min_metrics.txt,4,blind,26,0,0.5,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,0,0,0.86,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,1,0,0.45,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,2,0,0.16,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,3,0,0.12,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,4,0,0.06,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,5,0,0.06,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,6,0,0.01,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,7,0,0.23,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,8,0,0.45,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,9,0,0.47,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,10,0,0.25,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,11,0,0.43,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,12,0,0.3,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,13,0,0.3,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,14,0,0.35,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,15,0,0.54,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,16,0,0.38,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,17,0,0.39,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,18,0,0.25,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,19,0,0.29,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,20,0,0.17,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,21,0,0.52,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,22,0,0.44,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,23,0,0.28,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,24,0,0.37,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,25,0,0.18,4
+56_Rho KO_Blind_19wks_Male_W7min_S0.50min_metrics.txt,56,blind,26,0,0.07,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,0,0,0.2,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,1,0,0.12,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,2,0,0.17,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,3,0,0.16,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,4,0,0.47,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,5,0,0.41,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,6,0,0.2,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,7,0,0.13,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,8,0,0.14,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,9,0,0.07,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,10,0,0.06,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,11,0,0.03,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,12,0,0.08,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,13,0,0.04,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,14,0,0.01,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,15,0,0.02,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,16,0,0.1,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,17,0,0.08,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,18,0,0.07,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,19,0,0.05,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,20,0,0.02,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,21,0,0.06,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,22,0,0.1,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,23,0,0.02,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,24,0,0.09,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,25,0,0.06,4
+59_Rho KO_Blind_19wks_Female_W7min_S0.50min_metrics.txt,59,blind,26,0,0.05,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,0,0,0.76,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,1,0,0.86,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,2,0,0.68,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,3,0,0.61,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,4,0,0.67,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,5,0,0.71,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,6,0,0.42,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,7,0,0.63,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,8,0,0.37,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,9,0,0.41,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,10,0,0.35,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,11,0,0.36,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,12,0,0.39,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,13,0,0.45,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,14,0,0.36,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,15,0,0.27,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,16,0,0.57,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,17,0,0.59,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,18,0,0.35,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,19,0,0.3,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,20,0,0.14,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,21,0,0.26,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,22,0,0.3,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,23,0,0.38,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,24,0,0.33,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,25,0,0.4,4
+60_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,60,blind,26,0,0.22,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,0,0,0.73,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,1,0,0.5,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,2,0,0.51,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,3,0,0.32,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,4,0,0.52,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,5,0,0.57,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,6,0,0.78,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,7,0,0.86,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,8,0,0.88,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,9,0,0.9,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,10,0,0.92,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,11,0,0.63,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,12,0,0.55,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,13,0,0.74,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,14,0,0.77,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,15,0,0.39,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,16,0,0.13,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,17,0,0.72,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,18,0,0.56,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,19,0,0.67,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,20,0,0.78,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,21,0,0.78,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,22,0,0.71,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,23,0,0.47,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,24,0,0.52,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,25,0,0.58,4
+63_Rho KO_Blind_20wks_Female_W7min_S0.50min_metrics.txt,63,blind,26,0,0.63,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,0,1,0.4,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,1,1,0.42,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,2,1,0.54,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,3,1,0.59,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,4,1,0.62,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,5,1,0.63,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,6,1,0.9,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,7,1,0.96,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,8,1,0.95,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,9,1,0.95,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,10,1,0.96,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,11,1,0.96,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,12,1,0.93,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,13,1,0.93,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,14,1,0.92,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,15,1,0.91,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,16,1,0.95,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,17,1,0.94,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,18,1,0.93,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,19,1,0.94,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,20,1,0.96,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,21,1,0.81,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,22,1,0.81,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,23,1,0.77,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,24,1,0.58,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,25,1,0.42,4
+6_WT_Normal_22wks_Male_W7min_S0.50min_metrics.txt,6,normal,26,1,0.43,4
